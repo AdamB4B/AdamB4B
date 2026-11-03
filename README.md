@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🎓 **Education:** MSc student in Biomedical Engineering at VUT Brno (FEKT) · BSc in Biomedical Engineering & Bioinformatics
 🎯 **Focus:** machine learning & data science
 🌱 **Currently:** going deeper in ML and Neural Networks
 💼 **Open to** junior / internship roles in ML and data science
