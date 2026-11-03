@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I build machine-learning projects the careful way: clean evaluation protocols before clever models, and honest numbers over cherry-picked ones.
-
 🎯 **Focus:** machine learning & data science
 🌱 **Currently:** going deeper in ML and Neural Networks
 💼 **Open to** junior / internship roles in ML and data science
